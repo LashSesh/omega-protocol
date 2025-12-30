@@ -4,7 +4,7 @@
 
 ## Overview
 
-OMEGA is a revolutionary network protocol that achieves perfect anonymity, adaptive intelligence, and cryptographic determinism through purely mathematical operator transformations. Unlike traditional protocols that rely on addresses, routes, or persistent identifiers, OMEGA employs a composition of six fundamental operators to create a self-organizing network fabric.
+OMEGA is a network protocol that achieves perfect anonymity, adaptive intelligence, and cryptographic determinism through purely mathematical operator transformations. Unlike traditional protocols that rely on addresses, routes, or persistent identifiers, OMEGA employs a composition of six fundamental operators to create a self-organizing network fabric.
 
 ## Key Features
 
